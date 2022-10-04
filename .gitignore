@@ -1,0 +1,7 @@
+*.zip
+*.rar
+model/
+rsicd/
+runs/
+ucm_captions/
+*.ipynb_checkpoints
